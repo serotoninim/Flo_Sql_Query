@@ -2,10 +2,15 @@
 Tabloya verileri aktarmak, müşteri alışverişlerini analiz etmek için SQL sorguları kullandım. İşte projede yapılan adımlar:
 
 Customers veritabanı oluşturuldu ve FLO tablosu içine veriler aktarıldı.
+
 Kaç farklı müşterinin alışveriş yaptığı sorgulandı.
+
 Toplam alışveriş sayısı ve cirosu hesaplandı.
+
 Alışveriş başına ortalama ciro hesaplandı.
+
 En son alışveriş yapılan kanala göre ciroya ve alışveriş sayısına dair bilgiler elde edildi.
+
 Mağaza tipine göre toplam ciro analizi yapıldı.
 Yıl bazında alışveriş sayıları incelendi.
 En son alışveriş yapılan kanala göre alışveriş başına ortalama ciro hesaplandı.
